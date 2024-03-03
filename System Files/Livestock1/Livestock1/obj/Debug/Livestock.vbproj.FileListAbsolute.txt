@@ -1,0 +1,11 @@
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\bin\Debug\Livestock.exe.config
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\bin\Debug\Livestock.exe
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\bin\Debug\Livestock.pdb
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\bin\Debug\Livestock.xml
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\bin\Debug\MySql.Data.dll
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\obj\Debug\Livestock.frmLogin.resources
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\obj\Debug\Livestock.Resources.resources
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\obj\Debug\Livestock.vbproj.GenerateResource.Cache
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\obj\Debug\Livestock.exe
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\obj\Debug\Livestock.xml
+C:\Users\dreta\AppData\Local\Temporary Projects\Livestock\obj\Debug\Livestock.pdb
