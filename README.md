@@ -5,6 +5,6 @@ A livestock information system that mainly monitors each livestock's records, su
 A partial requirement for CS103P Systems Analysis and Design
 
 ## Members
-- Alfred Ashley Andrionn
-- Marc Jeremy Cedeno
-- Jhon Louise Tan
+- Alfred Ashley Andrion (Project Manager)
+- Marc Jeremy Cedeno (Document-In-Charge)
+- Jhon Louise Tan (Developer)
